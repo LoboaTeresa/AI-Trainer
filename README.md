@@ -1,6 +1,6 @@
-# Less pain, more gain. Lift weights with your AI trainer 🏋️📈
+# Less Pain, More Gain. Lift Weights With Your AI Trainer 🏋️📈
 
-[Read complete Medium article](https://medium.com/p/3737fe287079/edit)
+[Read complete Medium article](https://medium.com/@loboateresa/less-pain-more-gain-3737fe287079)
 
 <p align="center">
 <img src="assets/Tempo-Weight-Lifting.gif"
@@ -17,7 +17,7 @@ This repository presents a set of tools to help you improve your weightlifting f
 Although the repository is designed to be used with any weightlifting exercise, it currently only supports the front squat exercise. However we are working on adding more exercises to the repository. See [Project Roadmap](#-project-roadmap) for more information.
 
 ## 📝 Table of Contents
-- [Less pain, more gain. Lift weights with your AI trainer 🏋️📈](#less-pain-more-gain-lift-weights-with-your-ai-trainer-️)
+- [Less Pain, More Gain. Lift Weights With Your AI Trainer 🏋️📈](#less-pain-more-gain-lift-weights-with-your-ai-trainer-️)
   - [🪧 Description](#-description)
   - [📝 Table of Contents](#-table-of-contents)
   - [🚀 Usage](#-usage)
@@ -48,7 +48,7 @@ For this project we use the Mediapipe Blazepose full model. This model is a pose
 
 <p align="center">
 <img src="assets/kp_format.png"
-    alt="confusionMatrix"
+    alt="kps_format"
     width=550 />
 </p>
 
@@ -64,7 +64,7 @@ Some ideas on how to improve this project are:
 - [ ] Add automatic rep counting.
 - [ ] Add exercise classification/identification.
 - [ ] Add a web/mobile app to make it more user friendly.
-
+- [ ] Analyze the the position of the barbell.
 
 ## 👥  Acknowledgements
 [Back to Top](#️-less-pain-more-gain-lift-weights-with-your-ai-trainer-️️)
